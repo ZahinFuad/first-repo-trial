@@ -22,4 +22,5 @@ To upload files to gitgub:
 
 To get the files from GITHUB to my pc
 1. Navigate to the directory where the files will be.
-2. "git clone link" like before.
+2. "git clone link" like before. 
+3. Done.
