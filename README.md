@@ -24,3 +24,12 @@ To get the files from GITHUB to my pc
 1. Navigate to the directory where the files will be.
 2. "git clone link" like before. 
 3. Done.
+
+Say I changed something on my file
+1. Need to be in the folder of the repo. Type "git status" to see which files are changed.
+2. Type "git add ." to add all the files.
+3. "git commit -m "Changed something"
+4. Then "git push" to add the files to the repo.
+
+In order to get the changes made from someone
+1. "git pull"
