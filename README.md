@@ -19,3 +19,7 @@ To upload files to gitgub:
 8. then commit the files using "git commit" 
 9. add message if needed after "git commit -m "This is the message" "
 10. finally, run "git push" to push.
+
+To get the files from GITHUB to my pc
+1. Navigate to the directory where the files will be.
+2. "git clone link" like before.
